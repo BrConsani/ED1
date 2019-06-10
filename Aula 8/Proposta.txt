@@ -1,0 +1,6 @@
+Utilizando árvores binárias de busca (ABB), implemente em C um programa que possua as seguintes funções: 
+a) Constrói uma ABB guardando em cada nó um valor do tipo inteiro. Os dados devem ser lidos (mínimo de 10 nós). 
+b) Calcula a soma dos conteúdos de todos os nós de uma árvore (não é para somar na inserção!). 
+c) Imprime a árvore na tela. 
+d) Remove a árvore da memória, ou seja, libera o espaço ocupado em memória por cada nó da árvore. 
+A função main deverá chamar adequadamente cada uma das funções. 
