@@ -1,0 +1,10 @@
+Usando árvores binárias de busca que guardam números em seus nós,
+faça rotinas em C que:
+
+a) encontre o menor elemento de uma árvore
+b) encontre o maior elemento de uma árvore 
+c) descubra a quantidade de nós que tem números pares em uma árvore
+d) descubra quantos nós possuem valores maiores que um valor x
+e) remova o nó que possui o menor elemento da árvore
+
+A função main deverá chamar adequadamente cada uma das funções.
